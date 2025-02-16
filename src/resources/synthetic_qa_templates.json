@@ -1,0 +1,92 @@
+{
+    "cause-effect": {
+        "head": [
+            "What is the cause of $tail?",
+            "If $tail happens, what was the cause?"
+        ],
+        "tail": [
+            "What is the effect of $head?",
+            "What happens as a result of $head?"
+        ]
+    },
+    "has-contributing-factor": {
+        "head": [
+            "What contributes to $tail?",
+            "Which factor plays a role in $tail?"
+        ],
+        "tail": [
+            "What is the contributing factor of $head?",
+            "What is $head a contributing factor of?"
+        ]
+    },
+    "has-requirement": {
+        "head": [
+            "What is required for $tail?",
+            "What must happen for $tail to occur?"
+        ],
+        "tail": [
+            "For which event is $head necessary?",
+            "In what situation is $head a prerequisite?"
+        ]
+    },
+    "has-subevent": {
+        "head": [
+            "What is $tail as subevent of?",
+            "Which event is $tail a subevent of?"
+        ],
+        "tail": [
+            "What is the subevent of $head?",
+            "What happens after $head?"
+        ]
+    },
+    "precedes": {
+        "head": [
+            "What event precedes $tail?",
+            "What happens right before $tail?"
+        ],
+        "tail": [
+            "What follows after $head?",
+            "Which event comes after $head?"
+        ]
+    },
+    "reacts-to": {
+        "head": [
+            "What reacts to $tail?",
+            "What is $tail? a reaction to?"
+        ],
+        "tail": [
+            "What reacts to $head?",
+            "What is a reaction to $head?"
+        ]
+    },
+    "has-intent": {
+        "head": [
+            "What is $tail? an intent for?",
+            "What is motivated by $tail?"
+        ],
+        "tail": [
+            "What is the goal of $head?",
+            "What is the intent of head?"
+        ]
+    },
+    "magnifies": {
+        "head": [
+            "What increases the impact of $tail?",
+            "What magnifies $tail?"
+        ],
+        "tail": [
+            "What does $head magnify?",
+            "What is magnified by $head?"
+        ]
+    },
+    "mitigates": {
+        "head": [
+            "What reduces the impact of $tail?",
+            "What mitigates $tail?"
+        ],
+        "tail": [
+            "What does $head mitigate?",
+            "What is mitigated by $head?"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+Task: copa
+Baseline Accuracy: 0.826
+Knowledge-Augmented Accuracy: 0.932
+
+Task: ecare
+Baseline Accuracy: 0.674
+Knowledge-Augmented Accuracy: 0.788
+
+Task: anli
+Baseline Accuracy: 0.558
+Knowledge-Augmented Accuracy: 0.59
+
+Task: cosmosqa
+Baseline Accuracy: 0.686
+Knowledge-Augmented Accuracy: 0.634
+
+Task: ropes
+Baseline Accuracy: 0.0
+Knowledge-Augmented Accuracy: 0.0
+
+Task: wiqa
+Baseline Accuracy: 0.368
+Knowledge-Augmented Accuracy: 0.35
+
+Task: ropes
+Baseline Accuracy: 0.0
+Knowledge-Augmented Accuracy: 0.0
+
+Task: ropes
+Baseline Accuracy: 0.0
+Knowledge-Augmented Accuracy: 1.0
+
+Task: ropes
+Baseline Accuracy: 1.0
+Knowledge-Augmented Accuracy: 1.0
+
+Task: ropes
+Baseline Accuracy: 0.398
+Knowledge-Augmented Accuracy: 0.328
+
+zx

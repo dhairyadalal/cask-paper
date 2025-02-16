@@ -1,0 +1,59 @@
+{
+    "cause-effect": [
+        "$head can lead to $tail.",
+        "sometimes $head can result in $tail.",
+        "$head may cause $tail.",
+        "$tail can sometimes be a consequence of $head.",
+        "due to $head, $tail can occur."
+    ],
+    "has-contributing-factor": [
+        "$head is a contributing factor to $tail.",
+        "$head plays a role in $tail.",
+        "$head can contribute to $tail.",
+        "$tail can be influenced by $head."
+    ],
+    "has-requirement": [
+        "$head is a prerequisite for $tail.",
+        "$tail cannot occur without $head.",
+        "$head is necessary for $tail.",
+        "without $head, $tail is not possible.",
+        "$head must be present for $tail to happen."
+    ],
+    "has-subevent": [
+        "$head has the subevent of $tail.",
+        "$tail happens after $head.",
+        "$tail is a subevent of $head."
+    ],
+    "precedes": [
+        "$head happens before $tail.",
+        "$head precedes $tail.",
+        "before $tail, there is $head.",
+        "$head is a precursor to $tail."
+    ],
+    "reacts-to": [
+        "$head is a reaction to $tail.",
+        "$head reacts to $tail.",
+        "in response to $tail, $head occurs.",
+        "$tail triggers a response in $head."
+    ],
+    "has-intent": [
+        "$head has intent $tail.",
+        "$tail is the intent of $head.",
+        "$head is motivated by $tail.",
+        "the goal of $head is $tail.",
+        "$head serves the intent of $tail."
+    ],
+    "magnifies": [
+        "$head magnifies $tail.",
+        "$head intensifies $tail.",
+        "$$tail is amplified by $head.",
+        "$tail is mangified by $head.",
+        "$head magnifies the impact of $tail."
+    ],
+    "mitigates": [
+        "$head reduces the impact of $tail.",
+        "$head mitigates $tail.",
+        "$head alleviates the effects of $tail.",
+        "$head diminishes the intensity of $tail."
+    ]
+}

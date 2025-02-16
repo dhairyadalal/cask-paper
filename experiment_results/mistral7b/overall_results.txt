@@ -1,0 +1,4 @@
+Task: ropes
+Baseline Accuracy: 0.562
+Knowledge-Augmented Accuracy: 0.596
+
